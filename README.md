@@ -28,7 +28,7 @@ I love **OpenSource Spirit** ❤️
 
 I like to Record and Share **Knowledge** ☁️
   
-![Pt1P](https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif)
+![Pt1P](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)
 
 *If you need any **help**, **ping me** with `cc @CavinHuang`, I`m happy to help* 😃
 
@@ -48,7 +48,7 @@ I like to Record and Share **Knowledge** ☁️
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CavinHuang&theme=tokyonight" />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=xunzhuo&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+<img src="https://github-profile-trophy.vercel.app/?username=CavinHuang&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
   
   
 </div>
