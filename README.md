@@ -22,8 +22,6 @@ Here are some ideas to get you started:
   
 [Blog](http://blog.zukmb.cn)🏠  | [Study](https://github.com/CavinHuang/note)📚
 
-School at **UESTC**，Major in **Software Engineering**💻
-
 I love **OpenSource Spirit** ❤️
 
 I like to Record and Share **Knowledge** ☁️
@@ -32,12 +30,6 @@ I like to Record and Share **Knowledge** ☁️
 
 *If you need any **help**, **ping me** with `cc @CavinHuang`, I`m happy to help* 😃
 
-
-## Interests ❤️ 
-
-**Cloud Native, API Gateway, Service Mesh**☁️
-
-**Kubernetes, Docker, Istio, Envoy, WebAssembly, eBPF** 🪐
 
 ## My Repos are Below👇 ![Profile View Counter](https://komarev.com/ghpvc/?username=CavinHuang)
 
